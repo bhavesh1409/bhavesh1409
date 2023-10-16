@@ -1,4 +1,4 @@
-![logo](https://github.com/bhavesh1409/bhavesh1409/blob/main/banner_img_github.png)
+![logo](https://github.com/bhavesh1409/bhavesh1409/blob/main/banner_img_for_github.png)
 <h1 align="center">Hey 👋, I am Bhavesh Ajwani</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
