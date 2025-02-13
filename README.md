@@ -1,12 +1,13 @@
 ![logo](https://github.com/bhavesh1409/bhavesh1409/blob/main/banner_img_for_github.png)
-<h1 align="center">Hey 👋, I am Bhavesh Ajwani</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<h1 align="center">Hey 👋, Bhavesh here</h1>
+<h3 align="center">Learning....</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-- 🔭 I’m currently working on [Dynamic Graph Network Optimization leveraging DRL, Enhanced Traffic Routing](https://github.com/bhavesh1409/Traffic-Routing-Optimal-Path-in-Graph-Based-Networks-DRL-Approach)
+- 🔭 I’m recently worked on [Dynamic Graph Network Optimization leveraging DRL, Enhanced Traffic Routing](https://github.com/bhavesh1409/Traffic-Routing-Optimal-Path-in-Graph-Based-Networks-DRL-Approach)
+[Find my IEEE Paper on this](https://ieeexplore.ieee.org/abstract/document/10544087)
 
-- 🌱 I’m currently learning **Django-REST framework, Flask and System Design Principles**
+- 🌱 I’m currently exploring more on **Backend development and Cloud computing areas (AWS & GCP)**
 
 - 💬 Ask me about **TensorFlow, TfLite, Networking, MySQL, Computer Vision**
 
