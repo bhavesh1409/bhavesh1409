@@ -1,5 +1,5 @@
 ![logo](https://github.com/bhavesh1409/bhavesh1409/blob/main/banner_img_for_github.png)
-<h1 align="center">Hey 👋, Bhavesh here</h1>
+<h1 align="center">Hey!, Bhavesh here</h1>
 <h3 align="center">Learning....</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
